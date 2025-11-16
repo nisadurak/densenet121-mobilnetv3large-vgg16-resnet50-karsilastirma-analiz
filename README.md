@@ -4,14 +4,16 @@
 
 
 ## Mobilnet
-
 ![result](outputdata/outputpng_mobilenet2.png)
 
-
 ## resnet50
-
 ![result](outputdata/outputpng_resnet2.png)
 
+## densenet
+![result](outputdata/outputpng_densenet2.png)
+
+## vgg
+![result](outputdata/outputpng_vgg2.png)
 
 ## 📌 Proje Özeti
 Bu proje, Food-101 veri setindeki yiyecek görselleri üzerinde **görsel benzerlik tespiti** gerçekleştirmek için dört farklı CNN mimarisi kullanır:
