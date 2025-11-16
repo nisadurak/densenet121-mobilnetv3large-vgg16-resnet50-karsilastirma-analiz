@@ -7,7 +7,7 @@
 ![result](outputdata/outputpng_mobilenet3.png)
 
 ---
-![result](outputdata/outputpng_mobilenet2.jpg)
+![result](outputdata/outputpng_mobilenet2.png)
 
 
 ## 📌 Proje Özeti
