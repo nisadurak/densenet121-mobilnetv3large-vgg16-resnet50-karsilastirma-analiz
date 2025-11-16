@@ -3,15 +3,11 @@
 *(nisa_durak_baharDonemOdevi)*
 
 
-![result](outputdata/outputpng_mobilenet2.jpg)
-
-
----
 
 ![result](outputdata/outputpng_mobilenet3.png)
 
 ---
-
+![result](outputdata/outputpng_mobilenet2.jpg)
 
 
 ## 📌 Proje Özeti
