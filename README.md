@@ -2,7 +2,12 @@
 **CNN Tabanlı Öznitelik Çıkarımı ve Sıralama Metrikleri ile Food-101 Üzerinde Karşılaştırmalı Çalışma**  
 *(nisa_durak_baharDonemOdevi)*
 
+
 ![result](outputdata/outputpng_mobilenet2.jpg)
+
+
+---
+
 ![result](outputdata/outputpng_mobilenet3.png)
 
 ---
