@@ -15,6 +15,8 @@
 ## vgg
 ![result](outputdata/outputpng_vgg2.png)
 
+---
+
 ## 📌 Proje Özeti
 Bu proje, Food-101 veri setindeki yiyecek görselleri üzerinde **görsel benzerlik tespiti** gerçekleştirmek için dört farklı CNN mimarisi kullanır:
 
@@ -22,6 +24,9 @@ Bu proje, Food-101 veri setindeki yiyecek görselleri üzerinde **görsel benzer
 - DenseNet121  
 - MobileNetV3-Large  
 - VGG16  
+
+### Yiyecek görseli en benzer başka kategorideki yiyecekle eşleştirilir
+
 
 Her modelin sınıflandırıcı katmanı çıkarılarak görüntüler embedding vektörlerine dönüştürülür. Görseller arası benzerlik **cosine similarity** ile ölçülür; ardından modeller **Top-1**, **Top-5**, **Precision@5**, **MAP@5** ve **NDCG@5** gibi sıralama odaklı metriklerle değerlendirilir.
 
