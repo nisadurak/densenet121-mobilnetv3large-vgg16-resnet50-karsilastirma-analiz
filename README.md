@@ -3,11 +3,14 @@
 *(nisa_durak_baharDonemOdevi)*
 
 
+## Mobilnet
 
-![result](outputdata/outputpng_mobilenet3.png)
-
----
 ![result](outputdata/outputpng_mobilenet2.png)
+
+
+## resnet50
+
+![result](outputdata/outputpng_resnet2.png)
 
 
 ## 📌 Proje Özeti
@@ -115,13 +118,6 @@ Geliştirme için önerilebilecek yöntemler:
 - Görsellere ek olarak tarif/metin verisinin eklenmesiyle **multimodal sistem** tasarımı  
 - Büyük ölçekli retrieval için FAISS / PQ gibi **hızlandırma teknikleri**
 
----
 
-## 📜 Kaynakça
-Detaylı tüm referanslar çalışmanın PDF dosyasında yer almaktadır.
 
----
-
-## 📎 Proje Hakkında
-Bu README, *nisa_durak_212701013_baharDonemOdevi.pdf* belgesindeki çalışmayı özetlemek ve dışa dönük bir proje açıklaması sunmak amacıyla hazırlanmıştır.
 
